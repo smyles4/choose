@@ -4,12 +4,17 @@ let snow =document.querySelector('.snow');
 // text declare here
 
 let gift2=document.querySelector('.gift2');
+    gift2.style.display="none";
 let gift=document.querySelector('.gift');
+    gift.style.display="none";
 let white=document.querySelector('.white');
+    white.document.display="none";
 let tree=document.querySelector('.tree');
+    tree.document.display="none";
 let start=document.querySelector('.start');
 start.style.display="none";
 let kid=document.querySelector('.kid');
+    kid.document.display="none";
 
 left.addEventListener('click', function(){
  
