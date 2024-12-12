@@ -1,2 +1,6 @@
-img{width:500px;}
-img{height:300px}
+img{width:600px;}
+img{height:400px}
+
+body {
+    background-color: rgb(153, 202, 138);
+  }
